@@ -22,3 +22,8 @@ repo.url=cgitrepos
 repo.path=/home/git2/cgitrepos.git
 repo.desc=cgitrepos file config for git.rozuvan.net cgit server
 repo.clone-url=https://git.rozuvan.net/cgitrepos
+
+repo.url=cgit-server-setup
+repo.path=/home/git2/cgit-server-setup.git
+repo.desc=Opinionated set of Bash scripts for cgit server setup
+repo.clone-url=https://git.rozuvan.net/cgit-server-setup
