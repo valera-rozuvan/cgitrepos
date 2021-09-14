@@ -15,7 +15,7 @@ repo.clone-url=https://git.rozuvan.net/bash-scripts
 
 repo.url=JSTweener
 repo.path=/home/git2/JSTweener.git
-repo.desc=Javascript Tweener for Animation
+repo.desc=JavaScript Tweener for Animation
 repo.clone-url=https://git.rozuvan.net/JSTweener
 
 repo.url=cgitrepos
