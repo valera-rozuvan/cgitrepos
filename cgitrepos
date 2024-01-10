@@ -27,3 +27,8 @@ repo.url=cgit-server-setup
 repo.path=/home/git2/cgit-server-setup.git
 repo.desc=Opinionated set of Bash scripts for cgit server setup
 repo.clone-url=https://git.rozuvan.net/cgit-server-setup
+
+repo.url=load-directory-mu
+repo.path=/home/git2/load-directory-mu.git
+repo.desc=load all emacs lisp files from sub-directories
+repo.clone-url=https://git.rozuvan.net/load-directory-mu
