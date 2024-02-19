@@ -32,3 +32,8 @@ repo.url=load-directory-mu
 repo.path=/home/git2/load-directory-mu.git
 repo.desc=load all emacs lisp files from sub-directories
 repo.clone-url=https://git.rozuvan.net/load-directory-mu
+
+repo.url=gen2fa
+repo.path=/home/git2/gen2fa.git
+repo.desc=generate 2FA codes helper utility
+repo.clone-url=https://git.rozuvan.net/gen2fa
